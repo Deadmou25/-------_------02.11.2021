@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Верстка_стрим 02.11.2021",
+			"path": ".."
+		},
+		{
+			"name": "padding-margin",
+			"path": "..\\..\\..\\..\\Downloads\\padding-margin"
+		},
+		{
+			"name": "project",
+			"path": "..\\..\\..\\project"
+		},
+		{
+			"name": "stepik",
+			"path": "..\\..\\stepik"
+		},
+		{
+			"name": "script",
+			"path": "..\\..\\script"
+		},
+		{
+			"name": "css",
+			"path": "..\\..\\..\\css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Верстка_стрим 02.11.2021"
+	}
+}
